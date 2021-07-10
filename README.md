@@ -1,4 +1,11 @@
 # ProfileCard
+![image](https://user-images.githubusercontent.com/65272471/125170162-867e0480-e1e8-11eb-98b7-ee6e46718f37.png)
 
-<img width="694" alt="スクリーンショット 2021-07-06 3 46 15" src="https://user-images.githubusercontent.com/65272471/124509353-bf932f00-de0c-11eb-8a0e-a4eb18f37fdc.png">
+# Language
+- html
+- css
+- JavaScript
 
+# FrameWork
+
+- BootStrap
