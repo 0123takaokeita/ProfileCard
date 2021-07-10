@@ -6,7 +6,7 @@ profiles.classList.add('bg-secondary','vh-100','vw-100','d-flex','flex-colum','j
 
 // カードの作成
 let card = document.createElement('div');
-card.classList.add('bg-white','w-50','rounded','border','p-4');
+card.classList.add('d-flex','bg-white','w-50','rounded','border','p-4');
 profiles.append(card);
 
 // カード左半分
@@ -43,4 +43,15 @@ leftArea.append(liveArea);
 
 // カード右半分
 let rightArea = document.createElement('div');
+rightArea.classList.add('margin-auto','d-flex','h-auto','w-50')
 card.append(rightArea);
+
+// 画像のエリア
+let avatar = document.createElement('img');
+avatar.classList.add('h-100','w-100');
+avatar.src = '/takao.png'
+rightArea.append(avatar);
+
+
+
+
